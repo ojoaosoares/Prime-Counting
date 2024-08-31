@@ -67,7 +67,7 @@ After entering the integer, the program performs the following calculations and 
 
 ## Applications and Limitations
 
-This modified sieve is particularly useful for studying the distribution of primes within specific arithmetic forms and testing related number theory hypotheses. Unlike the classical sieve, it does not requires $O(n)$ space. However, its complexity keeps $O(n \log \log n)$, that can be very slow for very large $n$.
+This modified sieve is particularly useful for studying the distribution of primes within specific arithmetic forms and testing related number theory hypotheses. Unlike the classical sieve, it does not requires $O(n)$ space. However, its complexity keeps $O(n \log \log n)$, what can be very slow for very large $n$.
 
 ## References
 
