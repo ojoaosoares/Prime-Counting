@@ -46,7 +46,7 @@ The code includes tests to explore the theory that
 $$ \lim_{n \to \infty} \frac{\pi_1(n)}{\pi_3(n)} = 1 $$
 
 
-## Example Usage
+## Usage
 
 ### Input
 
