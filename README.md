@@ -4,7 +4,7 @@ This repository implements a modified version of the classical Sieve of Eratosth
 
 Additionally, it compares these prime counts with two prime approximation functions and tests the theory that the ratio of primes of form $\pi_1$ to $\pi_3$ approaches 1 as $n$ approaches infinity.
 
-## Algorithm Overview
+## Study Overview
 
 ### Basic Idea:
 
